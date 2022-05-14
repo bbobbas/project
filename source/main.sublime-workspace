@@ -1,0 +1,270 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"padding",
+				"padding-bottom\tproperty"
+			]
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"Install ",
+				"Package Control: Install Package"
+			],
+			[
+				"Insta",
+				"Install Package Control"
+			]
+		],
+		"width": 0.0
+	},
+	"console":
+	{
+		"height": 235.0,
+		"history":
+		[
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/home/vvp/Музыка/Python/1.txt",
+		"/home/vvp/Документы/ShareIN4/new.txt",
+		"/home/vvp/Документы/ShareIN4/haproxy/09-servicedesk.in4security.com.cfg",
+		"/home/vvp/Документы/ShareIN4/haproxy/04-mail.cfg",
+		"/home/vvp/Документы/ShareIN4/haproxy/07-survey.gk-is.ru.cfg",
+		"/home/vvp/Документы/ShareIN4/haproxy/08-order.gk-is.ru.cfg",
+		"/home/vvp/Документы/ShareIN4/haproxy/06-cryptomail.gk-is.ru.cfg",
+		"/home/vvp/Загрузки/kng_re_draft_3.08.A.8.0-1_router_startup-config.txt",
+		"/home/vvp/Документы/ShareIN4/pass.txt",
+		"/usr/share/zenity/zenity.ui",
+		"/home/vvp/Загрузки/meta.conf",
+		"/home/vvp/Загрузки/KMSAuto Lite Portable v1.2.6/readme_ru.txt",
+		"/home/vvp/OneDrive/pass.txt",
+		"/home/vvp/Документы/ShareIN4/503sorry.html",
+		"/home/vvp/Документы/Web_infra.drawio",
+		"/home/vvp/Музыка/noip-duc-linux/noip-2.1.9-1/redhat.noip.sh",
+		"/home/vvp/Музыка/noip-duc-linux/noip-2.1.9-1/debian.noip2.sh",
+		"/home/vvp/Музыка/pptp.bs",
+		"/home/vvp/Музыка/без имени",
+		"/home/vvp/Музыка/new.geanywb",
+		"/home/vvp/Музыка/connect_free_vpn.sh",
+		"/home/vvp/PI",
+		"/home/vvp/Документы/ShareIN4/haproxy/02-frontend_http.cfg",
+		"/home/vvp/Документы/ShareIN4/haproxy/10-awareness.in4security.com.cfg",
+		"/home/vvp/Документы/ShareIN4/haproxy/03-frontend_8443.cfg",
+		"/home/vvp/Документы/ShareIN4/haproxy/backup/cfg_19_26_43_14_02_19/conf.d/01-frontend_https.cfg",
+		"/home/vvp/Документы/ShareIN4/haproxy/backup/haproxy.cfg.orig",
+		"/home/vvp/Документы/Brains/Базовые сетевые инструменты.txt",
+		"/home/vvp/Документы/Brains/DM/Unix/linux4/linux4_ex1-4.sh",
+		"/home/vvp/test/test.txt",
+		"/media/vvp/6E70B8F270B8C1DF/Users/vvp/Documents/ShareIN4/pass.txt",
+		"/home/vvp/Загрузки/CA_ITK/install.bat",
+		"/home/vvp/Загрузки/nvidiaProfileInspector-2.3.0.10/nvidiaProfileInspector.sln",
+		"/media/vvp/45402393-e586-4d01-b00d-a58a581041bf/Privalih.000/header.key",
+		"/media/vvp/HD500/Steam_Game/steamapps/common/Oblivion/Oblivion_default.ini",
+		"/home/vvp/Загрузки/Unofficial Skyrim Special Edition Patch (RU)-21994-4-2-5b-1623774883/Unofficial Skyrim Special Edition Patch.ini",
+		"/home/vvp/Загрузки/Unofficial Skyrim Special Edition Patch (RU)-21994-4-2-5b-1623774883/Unofficial Skyrim Special Edition Patch.modgroups",
+		"/media/vvp/HD500/Steam_Game/steamapps/common/Skyrim Special Edition/Skyrim/SkyrimPrefs.ini",
+		"/home/vvp/Загрузки/Unofficial Skyrim Special Edition Patch (RU)-21994-4-2-5b-1623774883/BashTags/Unofficial Skyrim Special Edition Patch.txt",
+		"/home/vvp/Документы/ATOS/BIG_Rolf_linux_team.txt",
+		"/home/vvp/Documents/ATOS/ROLF/mob-cache-test2.cfg",
+		"/home/vvp/Documents/ATOS/ROLF/dlc-cdp-test.cfg",
+		"/home/vvp/OneDrive/gs-server.key",
+		"/home/vvp/Документы/Brains/Unix/Урок 7 - простыми словами.",
+		"/home/vvp/Документы/Brains/DM/Unix/lesson4/authlog.sh",
+		"/home/vvp/Документы/Brains/DM/Unix/lesson4/trsymbols.sh",
+		"/home/vvp/Документы/Brains/DM/Unix/lesson4/yeardirs.sh",
+		"/home/vvp/Документы/Brains/DM/Unix/linux4/linux4_ex5.sh",
+		"/home/vvp/Документы/Brains/DM/Unix/ДЗ4.sh",
+		"/home/vvp/Документы/Brains/DM/Unix/unix-4/ownersort.sh",
+		"/home/vvp/Документы/Brains/DM/Unix/unix-4/unix-4.3.sh",
+		"/home/vvp/Документы/Brains/DM/Unix/unix-4/unix-4.2.sh",
+		"/home/vvp/Документы/Brains/DM/Unix/unix-4/unix-4.1.sh",
+		"/home/vvp/Музыка/Bash/xenlism/online.install",
+		"/home/vvp/Документы/Brains/DM/Unix/linux3.sh",
+		"/home/vvp/Загрузки/Telegram Desktop/task5-7.txt",
+		"/home/vvp/Документы/Brains/DM/Linux/Homework-main/UNIX/L4-1.sh",
+		"/tmp/mozilla_vvp0/linux2.sh",
+		"/home/vvp/Документы/Brains/DM/Unix/export_file/rc.local",
+		"/home/vvp/Документы/Brains/DM/Unix/export_file/errors",
+		"/home/vvp/WORK/man_pages/man7/cmake-policies.7",
+		"/home/vvp/.cache/.fr-1DUBk8/Электронная библиотека, скачать книги бесплатно!.URL",
+		"/run/user/1000/gvfs/smb-share:server=bvrita.local,share=vms/Book/Book_kernel/Programmers Klondike.txt",
+		"/home/vvp/Документы/Ansible/ansiblebook-master/ch05/mezzanine-dev.sh",
+		"/home/vvp/Документы/Books/jQuery-tutorial-for-beginners-1.0.8.epub",
+		"/home/vvp/C++/hello.o",
+		"/home/vvp/C/hello_c.o",
+		"/home/vvp/.cache/.fr-SGKTzb/clear",
+		"/home/vvp/.cache/.fr-hpJRsd/wargames",
+		"/home/vvp/vmware/macOS Catalina/macOS Catalina.vmx",
+		"/home/vvp/remove-old-snaps",
+		"/home/vvp/Загрузки/High_Ubunterra_DD-2.4(Pass)/install.sh",
+		"/home/vvp/Документы/Brains/lesson/linux_workstation2/lesson03/task_7.sh",
+		"/home/vvp/Документы/Brains/lesson/linux_workstation2/lesson05/commands-6.sh",
+		"/home/vvp/Документы/Brains/lesson/linux_workstation2/lesson03/task_6.sh",
+		"/home/vvp/Документы/Brains/lesson/linux_workstation2/lesson03/task_5.sh",
+		"/home/vvp/Документы/Brains/lesson/linux_workstation2/lesson03/task_4.sh",
+		"/home/vvp/Документы/Brains/lesson/linux_workstation2/lesson03/task_3.sh",
+		"/home/vvp/Документы/Brains/lesson/linux_workstation2/lesson03/task_2.sh",
+		"/home/vvp/Документы/Brains/lesson/linux_workstation2/lesson03/task_1.sh",
+		"/media/vvp/HD500/1.cer",
+		"/home/vvp/Документы/jQuery-tutorial-for-beginners-1.0.8.epub",
+		"/home/vvp/0000/list.txt",
+		"/home/vvp/Загрузки/PROMT Professional v9.5 (9.0.514) Giant Ml_Rus/Readme.txt",
+		"/home/vvp/0000/list3.txt",
+		"/home/vvp/Музыка/Python/setup.py",
+		"/home/vvp/Документы/Brains/DM/дз линукс.txt",
+		"/home/vvp/Документы/Brains/linux_less2.txt",
+		"/home/vvp/Документы/Brains/DM/Natali.txt",
+		"/home/vvp/Документы/Brains/DM/untitled",
+		"/home/vvp/Музыка/Python/ai_speech.py",
+		"/home/vvp/Музыка/Python/my_prog.py",
+		"/home/vvp/Музыка/Python/my_prog2.py",
+		"/run/user/1000/gvfs/mtp:host=%5Busb%3A001%2C011%5D/Внутренняя память/demo epub.epub"
+	],
+	"find":
+	{
+		"height": 40.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 35.0
+	},
+	"input":
+	{
+		"height": 0.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "",
+	"project": "main.sublime-project",
+	"replace":
+	{
+		"height": 92.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 150.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
