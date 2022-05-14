@@ -1,1 +1,1 @@
-content from git cola
+content 2 from git cola
